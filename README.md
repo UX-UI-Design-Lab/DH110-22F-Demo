@@ -8,8 +8,14 @@ Oceans are essential to the existence of humans as we rely on them for food, wat
 ### Research
 I conducted Heuristic Evaluation of DHI Group and Marine Conservation Institute to understand the current ux issues of the website related the topic. See more about [heuristic evaluation](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment01.md).
 
+I also conducted Usability testing with [Marin Stewardship council](msc.org). The test was taken in my empty dorm room with Zoom, screen recording and recording the participant. In my first heuristic evaluation of the site, the two heuristics I rated most poorly were “Recognition Rather than Recall” and “Aesthetic and Minimalist Design.” My test therefore evaluated the ease of navigation and content very heavily.
+
+
+
 ### Design
 
 ### Evaluation
 
 ### Presentation
+
+
